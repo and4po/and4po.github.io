@@ -5,7 +5,7 @@ excerpt: "Se te ha alvidado alguna vez la contraseña de tu Raspberry Pi? A mi s
 date: 2021-12-10
 classes: wide
 header:
-  teaser: /assets/images/raspberry-pi.png
+  teaser: /assets/images/Passwd-RSPI.png
   teaser_home_page: true
   icon:
 categories:
@@ -14,7 +14,6 @@ categories:
 tags:  
   - RaspberryPi
   - Linux
-  - 
 ---
 
 Esto sera possible gracias a que el sistema operativo Raspberry OS està instalado en la tarjeta Micro SD, los ficheros de la qual podremos modificar y recuperar la contrasenya.
