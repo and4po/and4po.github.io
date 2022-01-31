@@ -18,4 +18,4 @@ tags:
 
 Esto sera possible gracias a que el sistema operativo Raspberry OS està instalado en la tarjeta Micro SD, los ficheros de la qual podremos modificar y recuperar la contrasenya.
 
-Primero, debemos de sacar la tarjeta Micro SD de nuestra Raspberry Pi y ponerla en nuestro ordenador Windows, Mac o Linux.
+Primero, debemos de sacar la tarjeta Micro SD de nuestra Raspberry Pi y ponerla en nuestro ordenador Windows, Mac o Linux. Despúes debemos abrir el fichero .... i escribir lo siguient al final del fichero `bla, bla, bla`
