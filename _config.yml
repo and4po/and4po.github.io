@@ -130,8 +130,7 @@ author:
   vine             :
   weibo            :
   xing             :
-  youtube          : "https://www.online-python.com/sAN7X3dwGL" # "https://youtube.com/c/MichaelRoseDesign"
-
+  youtube          : # "https://www.online-python.com/sAN7X3dwGL"
 # Reading Files
 include:
   - .htaccess
