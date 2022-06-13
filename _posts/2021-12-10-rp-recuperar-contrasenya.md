@@ -1,7 +1,7 @@
 ---
 layout: single
-title: Recuperar la contraseña de la teva Raspberry Pi
-excerpt: "Se t'ha oblidat algun cop la contraseña de la teva Raspberry Pi? A mi sí. Doncs aquí t'explico com recuperar-la pas a pas."
+title: Recuperar la contrasenya de la teva Raspberry Pi
+excerpt: "Se t'ha oblidat algun cop la contrasenya de la teva Raspberry Pi? A mi sí. Doncs aquí t'explico com recuperar-la pas a pas."
 date: 2021-12-10
 classes: wide
 header:
