@@ -1,7 +1,7 @@
 ---
 layout: single
-title: Recuperar la contraseña de tu Raspberry Pi
-excerpt: "Se te ha alvidado alguna vez la contraseña de tu Raspberry Pi? A mi si. Pues aqui te explico como recuperarla paso a paso."
+title: Recuperar la contraseña de la teva Raspberry Pi
+excerpt: "Se t'ha oblidat algun cop la contraseña de la teva Raspberry Pi? A mi sí. Doncs aquí t'explico com recuperar-la pas a pas."
 date: 2021-12-10
 classes: wide
 header:
@@ -16,6 +16,8 @@ tags:
   - Linux
 ---
 
-Esto sera possible gracias a que el sistema operativo Raspberry OS està instalado en la tarjeta Micro SD, los ficheros de la qual podremos modificar y recuperar la contrasenya.
+Això serà possible gràcies a que el sistema operatiu Raspberry OS està instal·lat en una targeta Micro SD, els fitxers de la qual podem modificar per a recuperar la contrasenya.
 
-Primero, debemos de sacar la tarjeta Micro SD de nuestra Raspberry Pi y ponerla en nuestro ordenador Windows, Mac o Linux. Despúes debemos abrir el fichero .... i escribir lo siguient al final del fichero `bla, bla, bla`
+Primer, hem de treure la targeta Micro SD del nostre ordinador i amb un adaptador posar-la al nostre ordinador Windows, Mac o Linux. Després hem d'obrir el fitxer _cmdline.txt_ amb qualsevol editor de textos i escriure-hi al final el següent text `init=/bin/sh`.
+
+<! --- Imatge
