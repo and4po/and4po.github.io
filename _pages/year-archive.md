@@ -1,6 +1,6 @@
 ---
 title: "Articles per any"
-permalink: /year-archive/
+permalink: /articles-any/
 layout: posts
 author_profile: true
 ---
