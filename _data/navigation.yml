@@ -1,11 +1,11 @@
 main:
-  - title: "Home"
+  - title: "Inici"
     url: /
-  - title: "Posts"
-    url: /year-archive/
+  - title: "Articles"
+    url: /articles-any/
   - title: "Categories"
     url: /categories/
-  - title: "Tags"
-    url: /tags/
-  - title: "About"
-    url: /about/
+  - title: "Etiquetes"
+    url: /etiquetes/
+  - title: "Sobre mi"
+    url: /sobre-mi/
