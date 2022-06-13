@@ -1,6 +1,6 @@
 ---
 title: "Articles per etiqueta"
-permalink: /tags/
+permalink: /etiquetes/
 layout: tags
 author_profile: true
 ---
