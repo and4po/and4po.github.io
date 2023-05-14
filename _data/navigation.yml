@@ -9,3 +9,5 @@ main:
     url: /etiquetes/
   - title: "Sobre mi"
     url: /sobre-mi/
+  - title: "Random"
+    url: /random/
