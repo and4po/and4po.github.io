@@ -6,8 +6,8 @@ main:
   - title: "Categories"
     url: /categories/
   - title: "Etiquetes"
-    url: /etiquetes/
+    url: /tags/
+  - title: "Nombres Aleatoris"
+    url: /random/
   - title: "Sobre mi"
     url: /sobre-mi/
-  - title: "Random"
-    url: /random/
