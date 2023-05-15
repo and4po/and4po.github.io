@@ -15,7 +15,7 @@ remote_theme             : "mmistakes/minimal-mistakes@4.15.1"
 minimal_mistakes_skin    : "haxor" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
-locale                   : "en-US"
+locale                   : "ca"
 title                    : "And4po"
 title_separator          : "-"
 name                     : "And4po"
@@ -103,8 +103,8 @@ analytics:
 author:
   name             : "and4po"
   avatar           : "/assets/images/avatar.png"
-  bio              : "Programador i usuari de Linux"
-  location         : "Catalunya"
+  bio              : "El lloc web de programació i informàtica en català."
+  location         : "Països catalans"
   email            : "anderromeroaldana@gmail.com"
   uri              :
   home             : # null (default), "absolute or relative url to link to author home"
