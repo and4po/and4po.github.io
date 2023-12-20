@@ -3,3 +3,7 @@ _site
 .jekyll-metadata
 _drafts
 .DS_Store
+assets/images/editing/
+_posts/process/
+_posts/proves/
+_posts/articles.md
