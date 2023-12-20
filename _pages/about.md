@@ -5,6 +5,8 @@ permalink: /sobre-mi/
 date: 2023-12-20
 ---
 
+<br>
+
 Soc un programador aficionat, amant de la tecnologia i el programari lliure. Provo d'escriure un article al més sobre alguna cosa que he descobert o que em sembla interessant compartir.
 
 ## Avís legal

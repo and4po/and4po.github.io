@@ -34,6 +34,8 @@ També m'agrada tenir un diccionari sempre a mà. I sovint és útil quan no tin
 
 Afegir un diccionari és ben fàcil, només cal que baixem el diccionari i que el descomprimim a l'emmagatzematge intern, dins la carpeta _QDict/dicts/_. Llavors ens dirigim al menú lateral prement el botó dels tres guions, premem _Select dictionary_ i activem en diccionari fent clic sobre seu. Ara sortim del menú lateral prement qualsevol part de la pantalla que no sigui el menú i llestos. Amb el botó de cercar a la cantonada inferior dreta podeu cercar al diccionari.
 
-<img src="../assets/images/Diccionari/qdict.jpeg" width="360" height="686">
+<p>
+	<img src="/assets/images/Diccionari/qdict.jpeg" width="360" height="686">
+</p>
 
 També us animo, que si trobeu alguna paraula que no hi sigui o alguna errada a una definició, podeu editar-la des del lloc web del [Viccionari](https://ca.wiktionary.org/). Que funciona de forma col·laborativa, com la Viquipèdia, ja que tambés està sota el braç de la _Fundació Wikimedia_.
